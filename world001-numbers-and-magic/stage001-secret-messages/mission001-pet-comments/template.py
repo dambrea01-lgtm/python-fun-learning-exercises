@@ -1,5 +1,5 @@
 # ============================================================
-# 🐶🐱 EJERCICIO 1 – ⚪ BÁSICO: COMENTARIOS CON TU MASCOTA
+# 🐶🐱 MISION 001 – ⚪ BÁSICO: COMENTARIOS CON TU MASCOTA
 # ============================================================
 # ⚠️ IMPORTANTE:
 # Sustituye cada línea que dice "ESCRIBE AQUÍ" por tu propio código que puedes verlo en guide.py.

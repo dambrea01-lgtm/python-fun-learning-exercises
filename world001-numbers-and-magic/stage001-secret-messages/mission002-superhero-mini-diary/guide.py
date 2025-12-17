@@ -1,5 +1,5 @@
 # ============================================================
-# 🦸‍♂️🦸‍♀️ EJERCICIO 2 – 🔵 INTERMEDIO: MINI DIARIO DEL SUPERHÉROE
+# 🦸‍♂️🦸‍♀️ MISION 002 – 🔵 INTERMEDIO: MINI DIARIO DEL SUPERHÉROE
 # ============================================================
 # NIVEL: Intermedio 🏹
 # 🎯 OBJETIVO: Usar comentarios de varias líneas para explicar un mini programa.

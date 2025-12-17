@@ -1,5 +1,5 @@
 # ============================================================
-# 🐶🐱 EJERCICIO 1 – ⚪ BÁSICO: COMENTARIOS CON TU MASCOTA
+# 🐶🐱 MISION 001 – ⚪ BÁSICO: COMENTARIOS CON TU MASCOTA
 # ============================================================
 # NIVEL: Muy básico 🐣
 # 🎯 OBJETIVO: Aprender a usar comentarios de una sola línea.
