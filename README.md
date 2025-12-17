@@ -35,6 +35,29 @@ Aprender Python debe ser una experiencia divertida, práctica y memorable.
 <hr>
 
 <!-- ===================== -->
+<!--        ÍNDICE         -->
+<!-- ===================== -->
+
+<h2>📑 Índice de Ejercicios</h2>
+<p>Navega por los mundos, stages y misiones para practicar Python paso a paso. Haz clic para desplegar los detalles.</p>
+
+<details>
+  <summary>🌍 Mundo 001 – Números y Magia ✨</summary>
+  <p>Este mundo introduce conceptos básicos de Python usando números, operaciones aritméticas, cadenas de texto y cálculos simples. Ideal para adquirir experiencia práctica.</p>
+  <ul>
+    <li>🎮 Stage 001 – Mensajes Secretos 🔐
+      <p>Aprende a crear y manipular variables, usar comentarios y mostrar mensajes con print(). Introduce la sintaxis básica de Python para principiantes.</p>
+      <ul>
+        <li><a href="#mission001-pet-comments">🐶🐱 Mission 001 – Comentarios de tu Mascota</a>  
+        Crea un pequeño programa para definir el nombre, tipo y edad de tu mascota, usando comentarios para describir cada variable.</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<hr/>
+
+<!-- ===================== -->
 <!--   FILOSOFÍA           -->
 <!-- ===================== -->
 
@@ -95,6 +118,45 @@ Si sigues este método, llegará un momento en el que sabrás lo que va a decir 
 <strong>antes de leerlo</strong>.  
 Ese es el mejor indicador de que estás aprendiendo correctamente.
 </p>
+
+<hr>
+
+<!-- ===================== -->
+<!--   CONFIGURACIÓN       -->
+<!-- ===================== -->
+
+<h2>🖥️ Configuración del entorno</h2>
+
+<p>
+Para trabajar con este proyecto, recomendamos usar <strong>Visual Studio Code (VS Code)</strong> como editor de código.
+</p>
+
+<h3>Paso 1 – Instalar VS Code</h3>
+<ul>
+  <li>Descárgalo desde <a href="https://code.visualstudio.com" target="_blank">https://code.visualstudio.com</a></li>
+  <li>Instálalo siguiendo las instrucciones de tu sistema operativo.</li>
+</ul>
+
+<h3>Paso 2 – Instalar el plugin de Python</h3>
+<ul>
+  <li>Abre VS Code.</li>
+  <li>Ve a la sección de <strong>Extensiones</strong> (icono de cuadritos en la barra lateral o <code>Ctrl+Shift+X</code> / <code>Cmd+Shift+X</code>).</li>
+  <li>Busca <strong>Python</strong> (publicado por Microsoft) y pulsa <strong>Instalar</strong>.</li>
+</ul>
+
+<h3>Paso 3 – Configurar Python 3</h3>
+<ul>
+  <li>Asegúrate de tener <strong>Python 3</strong> instalado en tu sistema.</li>
+  <li>En VS Code, abre la paleta de comandos (<code>Ctrl+Shift+P</code> / <code>Cmd+Shift+P</code>) y selecciona: <code>Python: Select Interpreter</code>.</li>
+  <li>Elige tu versión de Python 3.</li>
+</ul>
+
+<h3>Beneficios del plugin de Python en VS Code</h3>
+<ul>
+  <li>Resalta la sintaxis de Python.</li>
+  <li>Permite ejecutar código directamente desde el editor.</li>
+  <li>Ofrece autocompletado, depuración y recomendaciones de buenas prácticas.</li>
+</ul>
 
 <hr>
 
