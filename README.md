@@ -43,16 +43,19 @@ Aprender Python debe ser una experiencia divertida, práctica y memorable.
 
 <details>
   <summary>🌍 Mundo 001 – Números y Magia ✨</summary>
-  <p>Este mundo introduce conceptos básicos de Python usando números, operaciones aritméticas, cadenas de texto y cálculos simples. Ideal para adquirir experiencia práctica.</p>
-  <ul>
-    <li>🎮 Stage 001 – Mensajes Secretos 🔐
-      <p>Aprende a crear y manipular variables, usar comentarios y mostrar mensajes con print(). Introduce la sintaxis básica de Python para principiantes.</p>
-      <ul>
-        <li><a href="#mission001-pet-comments">🐶🐱 Mission 001 – Comentarios de tu Mascota</a>  
-        Crea un pequeño programa para definir el nombre, tipo y edad de tu mascota, usando comentarios para describir cada variable.</li>
-      </ul>
-    </li>
-  </ul>
+
+Este mundo introduce conceptos básicos de Python usando números, operaciones aritméticas, cadenas de texto y cálculos simples. Ideal para adquirir experiencia práctica.
+
+<details>
+  <summary>🎮 Stage 001 – Mensajes Secretos 🔐</summary>
+
+Aprende a crear y manipular variables, usar comentarios y mostrar mensajes con print(). Introduce la sintaxis básica de Python para principiantes.
+
+| Mission                                                                                                                                 | Descripción                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [🐶🐱 Mission 001 – Comentarios de tu Mascota](world001-numbers-and-magic/stage001-secret-messages/mission001-pet-comments/template.md) | Crea un pequeño programa para definir el nombre, tipo y edad de tu mascota, usando comentarios para describir cada variable. |
+
+</details>
 </details>
 
 <hr/>
