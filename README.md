@@ -47,13 +47,14 @@ Aprender Python debe ser una experiencia divertida, práctica y memorable.
 Este mundo introduce conceptos básicos de Python usando números, operaciones aritméticas, cadenas de texto y cálculos simples. Ideal para adquirir experiencia práctica.
 
 <details>
-  <summary style="padding-left: 20px;">🎮 Stage 001 – Mensajes Secretos 🔐</summary>
+  <summary>➡️🎮 Stage 001 – Mensajes Secretos 🔐</summary>
 
-Aprende a crear y manipular variables, usar comentarios y mostrar mensajes con print(). Introduce la sintaxis básica de Python para principiantes.
+Aprende a **crear y manipular variables**, usar **comentarios** y mostrar mensajes con **print()**. Introduce la **sintaxis básica de Python** para principiantes.
 
-| Mission                                                                                                                              | Descripción                                                                                                                  | Ir al Template                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [🐶🐱 Mission 001 – Comentarios de tu Mascota](world001-numbers-and-magic/stage001-secret-messages/mission001-pet-comments/guide.py) | Crea un pequeño programa para definir el nombre, tipo y edad de tu mascota, usando comentarios para describir cada variable. | [Template](world001-numbers-and-magic/stage001-secret-messages/mission001-pet-comments/template.py) |
+| Mission                                                                                                                                         | Descripción                                                                                                                                                                   | Ir al Template                                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [⚪🐶🐱 Mission 001 – Comentarios de tu Mascota](world001-numbers-and-magic/stage001-secret-messages/mission001-pet-comments/guide.py)          | Crea un pequeño programa para definir el nombre, tipo y edad de tu mascota, usando comentarios para describir cada variable.                                                  | [Template](world001-numbers-and-magic/stage001-secret-messages/mission001-pet-comments/template.py)         |
+| [🔵🦸‍♂️🦸‍♀️ Mission 002 – Mini Diario del Superhéroe](world001-numbers-and-magic/stage001-secret-messages/mission002-mini-superhero-diary/guide.py) | Crea un mini programa con variables de un superhéroe, usa un comentario multilínea para narrar su misión del día e imprime un mensaje divertido combinando texto y variables. | [Template](world001-numbers-and-magic/stage001-secret-messages/mission002-mini-superhero-diary/template.py) |
 
 </details>
 </details>
