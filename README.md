@@ -32,7 +32,7 @@ Aquí no encontrarás tutoriales interminables ni explicaciones abstractas.
 Aprender Python debe ser una experiencia divertida, práctica y memorable.
 </p>
 
-<hr>
+<br/><hr/><br/>
 
 <!-- ===================== -->
 <!--        ÍNDICE         -->
@@ -47,7 +47,7 @@ Aprender Python debe ser una experiencia divertida, práctica y memorable.
 Este mundo introduce conceptos básicos de Python usando números, operaciones aritméticas, cadenas de texto y cálculos simples. Ideal para adquirir experiencia práctica.
 
 <details>
-  <summary>🎮 Stage 001 – Mensajes Secretos 🔐</summary>
+  <summary>&nbsp;&nbsp;&nbsp;🎮 Stage 001 – Mensajes Secretos 🔐</summary>
 
 Aprende a crear y manipular variables, usar comentarios y mostrar mensajes con print(). Introduce la sintaxis básica de Python para principiantes.
 
@@ -58,7 +58,7 @@ Aprende a crear y manipular variables, usar comentarios y mostrar mensajes con p
 </details>
 </details>
 
-<hr/>
+<br/><hr/><br/>
 
 <!-- ===================== -->
 <!--   FILOSOFÍA           -->
@@ -78,7 +78,7 @@ Aprende a crear y manipular variables, usar comentarios y mostrar mensajes con p
   tediosos o excesivamente teóricos, y propone una forma alternativa basada en la práctica constante.
 </p>
 
-<hr>
+<br/><hr/><br/>
 
 <!-- ===================== -->
 <!--     REGLAS            -->
@@ -122,7 +122,7 @@ Si sigues este método, llegará un momento en el que sabrás lo que va a decir 
 Ese es el mejor indicador de que estás aprendiendo correctamente.
 </p>
 
-<hr>
+<br/><hr/><br/>
 
 <!-- ===================== -->
 <!--   CONFIGURACIÓN       -->
@@ -161,7 +161,7 @@ Para trabajar con este proyecto, recomendamos usar <strong>Visual Studio Code (V
   <li>Ofrece autocompletado, depuración y recomendaciones de buenas prácticas.</li>
 </ul>
 
-<hr>
+<br/><hr/><br/>
 
 <!-- ===================== -->
 <!--    ESTRUCTURA         -->
@@ -227,7 +227,7 @@ Un ejercicio práctico enfocado en un concepto específico.
 
 <p><strong>Aquí ocurre el aprendizaje real.</strong></p>
 
-<hr>
+<br/><hr/><br/>
 
 <!-- ===================== -->
 <!--   OBJETIVOS           -->
@@ -246,7 +246,7 @@ Un ejercicio práctico enfocado en un concepto específico.
   <li>Buenas prácticas</li>
 </ul>
 
-<hr>
+<br/><hr/><br/>
 
 <!-- ===================== -->
 <!--   PUBLICO             -->
@@ -261,7 +261,7 @@ Un ejercicio práctico enfocado en un concepto específico.
   <li>✔ Quienes se aburren con tutoriales tradicionales</li>
 </ul>
 
-<hr>
+<br/><hr/><br/>
 
 <!-- ===================== -->
 <!--    ESTADO             -->
