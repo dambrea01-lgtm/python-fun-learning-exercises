@@ -51,9 +51,9 @@ Este mundo introduce conceptos básicos de Python usando números, operaciones a
 
 Aprende a crear y manipular variables, usar comentarios y mostrar mensajes con print(). Introduce la sintaxis básica de Python para principiantes.
 
-| Mission                                                                                                                                 | Descripción                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| [🐶🐱 Mission 001 – Comentarios de tu Mascota](world001-numbers-and-magic/stage001-secret-messages/mission001-pet-comments/template.md) | Crea un pequeño programa para definir el nombre, tipo y edad de tu mascota, usando comentarios para describir cada variable. |
+| Mission                                                                                                                              | Descripción                                                                                                                  | Ir al Template                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [🐶🐱 Mission 001 – Comentarios de tu Mascota](world001-numbers-and-magic/stage001-secret-messages/mission001-pet-comments/guide.py) | Crea un pequeño programa para definir el nombre, tipo y edad de tu mascota, usando comentarios para describir cada variable. | [Template](world001-numbers-and-magic/stage001-secret-messages/mission001-pet-comments/template.py) |
 
 </details>
 </details>
@@ -74,8 +74,8 @@ Aprende a crear y manipular variables, usar comentarios y mostrar mensajes con p
 </ul>
 
 <p>
-Este proyecto rompe con los métodos clásicos de aprendizaje, que a menudo resultan
-tediosos o excesivamente teóricos, y propone una forma alternativa basada en la práctica constante.
+  Este proyecto rompe con los métodos clásicos de aprendizaje, que a menudo resultan
+  tediosos o excesivamente teóricos, y propone una forma alternativa basada en la práctica constante.
 </p>
 
 <hr>
