@@ -47,7 +47,7 @@ Aprender Python debe ser una experiencia divertida, práctica y memorable.
 Este mundo introduce conceptos básicos de Python usando números, operaciones aritméticas, cadenas de texto y cálculos simples. Ideal para adquirir experiencia práctica.
 
 <details>
-  <summary>&nbsp;&nbsp;&nbsp;🎮 Stage 001 – Mensajes Secretos 🔐</summary>
+  <summary style="padding-left: 20px;">🎮 Stage 001 – Mensajes Secretos 🔐</summary>
 
 Aprende a crear y manipular variables, usar comentarios y mostrar mensajes con print(). Introduce la sintaxis básica de Python para principiantes.
 
