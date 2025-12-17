@@ -1,6 +1,11 @@
 # ============================================================
 # 👽👾 MISION 003 – 🔴 AVANZADO: CÓDIGO SECRETO DEL ALIENÍGENA
 # ============================================================
+# ⚠️ IMPORTANTE:
+# Sustituye cada línea que dice "ESCRIBE AQUÍ" por tu propio código que puedes verlo en guide.py.
+# No copies y pegues código de otros sitios: teclea tú mismo cada línea.
+# Este ejercicio es para aprender escribiendo y practicando Python.
+# ============================================================
 # NIVEL: Avanzado 🔥
 # 🎯 OBJETIVO: Aprender a usar distintos tipos de comentarios en Python
 # 📌 ENUNCIADO:

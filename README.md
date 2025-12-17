@@ -63,8 +63,18 @@ Aprende a **crear y manipular variables**, usar **comentarios** y mostrar mensaj
 | [🔴👽👾 Mission 003 – Código Secreto del Alienígena](world001-numbers-and-magic/stage001-secret-messages/mission003-alien-secret-code/guide.py) | Aprende a usar distintos tipos de comentarios en Python, combinando comentarios de línea y multilínea para ocultar pistas y narrar la historia de una invasión alienígena.    | [Template](world001-numbers-and-magic/stage001-secret-messages/mission003-alien-secret-code/template.py)    |
 
 </details>
-</details>
 
+<details>
+  <summary>➡️🎮 Stage 002 – Laboratorio de Números y Variables 🧪</summary>
+
+En este stage aprenderás a **trabajar con números**, operadores aritméticos, división normal y entera, módulo, y cómo combinar **int y float** para resolver problemas prácticos.
+
+| Mission                                                                                                                          | Descripción                                                                                                                                                     | Ir al Template                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [⚪🐶 Mission 001 – Calculadora de Fido 🐾](world001-numbers-and-magic/stage002-number-lab/mission001-fidos-calculator/guide.py) | Crea un programa para repartir huesos entre amigos usando división normal, floor division y módulo. Verifica que floor_division \* divisor + remainder = total. | [Template](world001-numbers-and-magic/stage002-number-lab/mission001-fidos-calculator/template.py) |
+
+</details>
+</details>
 <br/><hr/><br/>
 
 <!-- ===================== -->

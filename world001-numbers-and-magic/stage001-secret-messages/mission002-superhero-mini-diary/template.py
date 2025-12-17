@@ -1,6 +1,11 @@
 # ============================================================
 # 🦸‍♂️🦸‍♀️ MISION 002 – 🔵 INTERMEDIO: MINI DIARIO DEL SUPERHÉROE
 # ============================================================
+# ⚠️ IMPORTANTE:
+# Sustituye cada línea que dice "ESCRIBE AQUÍ" por tu propio código que puedes verlo en guide.py.
+# No copies y pegues código de otros sitios: teclea tú mismo cada línea.
+# Este ejercicio es para aprender escribiendo y practicando Python.
+# ============================================================
 # NIVEL: Intermedio 🏹
 # 🎯 OBJETIVO: Usar comentarios de varias líneas para explicar un mini programa.
 # 📌 ENUNCIADO:
