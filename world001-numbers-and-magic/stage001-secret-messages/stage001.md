@@ -3,7 +3,7 @@
 | [↩️ Volver al inicio del proyecto](../../README.md) | [↩️ Volver al World 001](../world001.md) |
 | :-------------------------------------------------: | :--------------------------------------: |
 
-<br><hr><br>
+## Teoria breve de este Stage:
 
 <p>En este stage nos convertimos en agentes secretos del código 🕵️‍♂️💻. Aprenderemos a dejar <strong>mensajes secretos</strong> dentro de nuestro Python usando comentarios, para que otros (y tú mismo) puedan entender lo que está pasando sin que el intérprete lo ejecute.</p>
 
@@ -21,7 +21,15 @@ A partir de aquí comienzan las misiones, que son ejercicios divertidos basados 
 
 <br><hr><br>
 
-## 🐶🐱 MISION 001 – ⚪ BÁSICO: COMENTARIOS CON TU MASCOTA
+## Indice de Misiones
+
+- [🐶🐱 Misión 001 – ⚪ Básico: Comentarios con tu mascota](#-mision-001---básico-comentarios-con-tu-mascota)
+- [🦸‍♂️🦸‍♀️ Misión 002 – 🔵 Intermedio: Mini diario del super-héroe](#️️-mision-002---intermedio-mini-diario-del-superhéroe)
+- [👽👾 Misión 003 – 🔴 Avanzado: Código secreto del alienígena](#-mision-003---avanzado-código-secreto-del-alienígena)
+
+<br><hr><br>
+
+## [🐶🐱 MISION 001 – ⚪ BÁSICO: COMENTARIOS CON TU MASCOTA](#indice-de-misiones)
 
 ```python
 # ============================================================
@@ -91,7 +99,7 @@ print("Hola! Mi mascota se llama", mascota, "y es un", tipo, "de", edad, "años"
 
 <br><hr><br>
 
-## 🦸‍♂️🦸‍♀️ MISION 002 – 🔵 INTERMEDIO: MINI DIARIO DEL SUPERHÉROE
+## [🦸‍♂️🦸‍♀️ MISION 002 – 🔵 INTERMEDIO: MINI DIARIO DEL SUPERHÉROE](#indice-de-misiones)
 
 ```python
 # ============================================================
@@ -161,7 +169,7 @@ print("Hoy", nombre, "luchó contra", enemigo, "usando", superpoder, "[Risa] \u2
 
 <br><hr><br>
 
-## 👽👾 MISION 003 – 🔴 AVANZADO: CÓDIGO SECRETO DEL ALIENÍGENA
+## [👽👾 MISION 003 – 🔴 AVANZADO: CÓDIGO SECRETO DEL ALIENÍGENA](#indice-de-misiones)
 
 ```python
 # ============================================================
