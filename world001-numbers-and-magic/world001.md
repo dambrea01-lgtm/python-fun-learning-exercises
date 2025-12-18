@@ -3,8 +3,6 @@
 | [↩️ Volver al inicio del proyecto](../README.md) |
 | ------------------------------------------------ |
 
-<br/><hr><br/>
-
 <p>¡Bienvenido a <strong>Numbers and Magic</strong>!</p>
 
 <p>En este world aprenderás a usar Python como tu varita mágica: trabajar con <strong>números</strong> y operadores aritméticos (+, -, *, /, //, %, **), manipular <strong>texto</strong>, crear y modificar <strong>listas</strong> y usar <strong>comentarios</strong> para documentar tu código.</p>
@@ -17,4 +15,6 @@
 
 ### [➡️🎮 Stage 001 – Secret Messages 🔐](stage001-secret-messages/stage001.md)
 
-Haz las misiones de este stages y aprenderás a **crear y manipular variables**, usar **comentarios** y mostrar mensajes con **print()**. Introduce la sintaxis básica de Python de manera práctica.
+```text
+    Haz las misiones de este stages y aprenderás a **crear y manipular variables**, usar **comentarios** y mostrar mensajes con **print()**. Introduce la sintaxis básica de Python de manera práctica.
+```

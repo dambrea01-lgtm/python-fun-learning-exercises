@@ -24,7 +24,7 @@ A partir de aquí comienzan las misiones, que son ejercicios divertidos basados 
 ## Indice de Misiones
 
 - [🐶🐱 Misión 001 – ⚪ Básico: Comentarios con tu mascota](#-mision-001---básico-comentarios-con-tu-mascota)
-- [🦸‍♂️🦸‍♀️ Misión 002 – 🔵 Intermedio: Mini diario del super-héroe](#️️-mision-002---intermedio-mini-diario-del-superhéroe)
+- [🦸‍♂️🦸‍♀️ Misión 002 – 🔵 Intermedio: Mini diario del super-héroe](#-mision-002---intermedio-mini-diario-del-superhéroe)
 - [👽👾 Misión 003 – 🔴 Avanzado: Código secreto del alienígena](#-mision-003---avanzado-código-secreto-del-alienígena)
 
 <br><hr><br>
