@@ -1,8 +1,9 @@
 # 🌍 World 001 – Numbers and Magic ✨
 
-| Navegación                      |
-| ------------------------------- |
-| [🏠 Ir al README](../README.md) |
+| [↩️ Volver al inicio del proyecto](../README.md) |
+| ------------------------------------------------ |
+
+<br/><hr><br/>
 
 <p>¡Bienvenido a <strong>Numbers and Magic</strong>!</p>
 
@@ -10,11 +11,10 @@
 
 <p>Cada stage será un laboratorio de experimentos donde teclearás código mientras aprendes, con historias divertidas y ejercicios comentados 🐶🧙‍♂️👽.</p>
 
-<br/>
+<br/><hr/><br>
 
-| 🎮 Stages o apartados del World001 (Capitulo 001)                                                                                                                 | 📝 Descripción |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| [➡️🎮 Stage 001 – Secret Messages 🔐](stage001-secret-messages/stage001.md)                                                                                       |
-| Aprenderás a **crear y manipular variables**, usar **comentarios** y mostrar mensajes con **print()**. Introduce la sintaxis básica de Python de manera práctica. |
+## 🎮 Indice de Stages ( navega por los diferentes stages 🖱️ )
 
-<br/>
+### [➡️🎮 Stage 001 – Secret Messages 🔐](stage001-secret-messages/stage001.md)
+
+Haz las misiones de este stages y aprenderás a **crear y manipular variables**, usar **comentarios** y mostrar mensajes con **print()**. Introduce la sintaxis básica de Python de manera práctica.

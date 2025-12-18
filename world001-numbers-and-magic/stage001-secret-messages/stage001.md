@@ -1,9 +1,7 @@
 # ➡️ Stage 001 – Secret Messages 🔐
 
-| Navegación                          |
-| ----------------------------------- |
-| [🌍 Ir al World001](../world001.md) |
-| [🏠 Ir al README](../../README.md)  |
+| [↩️ Volver al inicio del proyecto](../../README.md) | [↩️ Volver al World 001](../world001.md) |
+| :-------------------------------------------------: | :--------------------------------------: |
 
 <br><hr><br>
 
@@ -263,8 +261,5 @@ print("Recuerda: las pistas están en los comentarios de código 👾✨")
 
 <br><hr><br>
 
-| Navegación                                        |
-| ------------------------------------------------- |
-| [⬆️ Ir al inicio](#️-stage-001--secret-messages-) |
-| [🌍 Ir al World001](../world001.md)               |
-| [🏠 Ir al README](../../README.md)                |
+| [↩️ Volver al inicio del proyecto](../../README.md) | [↩️ Volver al World 001](../world001.md) | [⬆️ Ir al inicio del Stage 001](#️-stage-001--secret-messages-) |
+| :-------------------------------------------------: | :--------------------------------------: | :-------------------------------------------------------------- |

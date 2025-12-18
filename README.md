@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="banner.png" alt="Python Fun-Learning Exercises Banner" width="100%">
+  <img src="resources/banner.png" alt="Python Fun-Learning Exercises Banner" width="100%">
 </p>
 
 <h1 align="center">🐍 Python Fun-Learning Exercises</h1>
@@ -185,8 +185,9 @@ https://docs.python.org/es/3.13/tutorial/index.html
 world001-python-basics/
 └── stage001-syntax/
     └── mission001-hello-world/
-        ├── guide.py
-        └── template.py
+        ├── guide.py # el codigo + comentarios explicativos
+        └── template.py # solo los comentarios explicativos
+        └── code.py  # solo el código de python
 </pre>
 
 <h3>🌍 World</h3>
@@ -203,50 +204,6 @@ Una etapa concreta dentro de ese bloque.
 <p>
 Un ejercicio práctico enfocado en un concepto específico.
 </p>
-
-<hr>
-
-<!-- ===================== -->
-<!--     ARCHIVOS          -->
-<!-- ===================== -->
-
-<h2>📄 Archivos de cada misión</h2>
-
-<h3>🧭 guide.py</h3>
-<ul>
-  <li>Código completo y funcional</li>
-  <li>Comentarios extensos y explicativos</li>
-  <li>Sirve como referencia</li>
-</ul>
-
-<p><strong>Se lee, no se copia.</strong></p>
-
-<h3>⌨️ template.py</h3>
-<ul>
-  <li>Solo contiene comentarios</li>
-  <li>Todo el código lo escribes tú</li>
-</ul>
-
-<p><strong>Aquí ocurre el aprendizaje real.</strong></p>
-
-<br/><hr/><br/>
-
-<!-- ===================== -->
-<!--   OBJETIVOS           -->
-<!-- ===================== -->
-
-<h2>🚀 ¿Qué aprenderás?</h2>
-
-<ul>
-  <li>Variables y tipos de datos</li>
-  <li>Sintaxis de Python</li>
-  <li>Strings, listas, diccionarios y tuplas</li>
-  <li>Condicionales y bucles</li>
-  <li>Funciones y módulos</li>
-  <li>Programación orientada a objetos</li>
-  <li>Manejo de errores</li>
-  <li>Buenas prácticas</li>
-</ul>
 
 <br/><hr/><br/>
 
