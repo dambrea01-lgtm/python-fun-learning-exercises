@@ -9,12 +9,10 @@
 
 <p>Cada stage será un laboratorio de experimentos donde teclearás código mientras aprendes, con historias divertidas y ejercicios comentados 🐶🧙‍♂️👽.</p>
 
-<br/><hr/><br>
+<hr/>
 
 ## 🎮 Indice de Stages ( navega por los diferentes stages 🖱️ )
 
 ### [➡️🎮 Stage 001 – Secret Messages 🔐](stage001-secret-messages/stage001.md)
 
-```text
-    Haz las misiones de este stages y aprenderás a **crear y manipular variables**, usar **comentarios** y mostrar mensajes con **print()**. Introduce la sintaxis básica de Python de manera práctica.
-```
+> Haz las misiones de este stages y aprenderás a **crear y manipular variables**, usar **comentarios** y mostrar mensajes con **print()**. Introduce la sintaxis básica de Python de manera práctica.
