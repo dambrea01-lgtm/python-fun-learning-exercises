@@ -44,37 +44,31 @@ De esta forma, sabrás exactamente qué estás haciendo y reforzarás tu compren
 <!-- ===================== -->
 
 <h2>📚 Índice de Ejercicios</h2>
-<p>Navega por los mundos, stages y misiones para practicar Python paso a paso. Haz clic para desplegar los detalles.</p>
+<p>Navega por los mundos, stages y misiones para practicar Python paso a paso.</p>
 
-<details>
-  <summary>🌍 Mundo 001 – Números y Magia ✨</summary>
+## Índice de capítulos 📖
 
-Este mundo introduce conceptos básicos de Python usando números, operaciones aritméticas, cadenas de texto y cálculos simples. Ideal para adquirir experiencia práctica.
+### [🌍 Mundo 001 – Numbers and Magic ✨](world001-numbers-and-magic/world001.md)
 
-<details>
-  <summary>➡️🎮 Stage 001 – Mensajes Secretos 🔐</summary>
+#### ➡️ Stage 001 – Secret Messages 🔐
 
-Aprende a **crear y manipular variables**, usar **comentarios** y mostrar mensajes con **print()**. Introduce la **sintaxis básica de Python** para principiantes.
+Aprenderás a **crear y manipular variables**, usar **comentarios** y mostrar mensajes con **print()**. Introduce la sintaxis básica de Python de manera práctica.
 
-| Mission                                                                                                                                         | Descripción                                                                                                                                                                   | Ir al Template                                                                                              |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| [⚪🐶🐱 Mission 001 – Comentarios de tu Mascota](world001-numbers-and-magic/stage001-secret-messages/mission001-pet-comments/guide.py)          | Crea un pequeño programa para definir el nombre, tipo y edad de tu mascota, usando comentarios para describir cada variable.                                                  | [Template](world001-numbers-and-magic/stage001-secret-messages/mission001-pet-comments/template.py)         |
-| [🔵🦸‍♂️🦸‍♀️ Mission 002 – Mini Diario del Superhéroe](world001-numbers-and-magic/stage001-secret-messages/mission002-mini-superhero-diary/guide.py) | Crea un mini programa con variables de un superhéroe, usa un comentario multilínea para narrar su misión del día e imprime un mensaje divertido combinando texto y variables. | [Template](world001-numbers-and-magic/stage001-secret-messages/mission002-mini-superhero-diary/template.py) |
-| [🔴👽👾 Mission 003 – Código Secreto del Alienígena](world001-numbers-and-magic/stage001-secret-messages/mission003-alien-secret-code/guide.py) | Aprende a usar distintos tipos de comentarios en Python, combinando comentarios de línea y multilínea para ocultar pistas y narrar la historia de una invasión alienígena.    | [Template](world001-numbers-and-magic/stage001-secret-messages/mission003-alien-secret-code/template.py)    |
+```text
+    - ⚪🐶🐱 Mission 001 – Pet Comments
+    - 🔵🦸‍♂️🦸‍♀️ Mission 002 – Mini Superhero Diary
+    - 🔴👽👾 Mission 003 – Alien Secret Code
+```
 
-</details>
+#### ➡️ Stage 002 – Numbers Lab 🧪
 
-<details>
-  <summary>➡️🎮 Stage 002 – Laboratorio de Números y Variables 🧪</summary>
+En este stage aprenderás a trabajar con **números**, operadores aritméticos, **división normal y floor division**, módulo, y cómo combinar **int** y **float** para resolver problemas prácticos.
 
-En este stage aprenderás a **trabajar con números**, operadores aritméticos, división normal y entera, módulo, y cómo combinar **int y float** para resolver problemas prácticos.
+```text
+    - ⚪🐶🐾 Mission 001 – Fidos Calculator
+    - ⏳⏳ desarrollando ⏳⏳
+```
 
-| Mission                                                                                                                          | Descripción                                                                                                                                                     | Ir al Template                                                                                     |
-| -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| [⚪🐶 Mission 001 – Calculadora de Fido 🐾](world001-numbers-and-magic/stage002-number-lab/mission001-fidos-calculator/guide.py) | Crea un programa para repartir huesos entre amigos usando división normal, floor division y módulo. Verifica que floor_division \* divisor + remainder = total. | [Template](world001-numbers-and-magic/stage002-number-lab/mission001-fidos-calculator/template.py) |
-
-</details>
-</details>
 <br/><hr/><br/>
 
 <!-- ===================== -->

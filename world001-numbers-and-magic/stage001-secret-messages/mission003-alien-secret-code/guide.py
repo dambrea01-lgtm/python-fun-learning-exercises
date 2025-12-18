@@ -20,7 +20,7 @@ alien1 = "Zog"          # Primer alienígena 👾
 alien2 = "Blip"         # Segundo alienígena 👽
 
 # Planeta de origen
-planeta = "Zeta-5"      # Planeta secreto 🪐
+planet = "Zeta-5"      # Planeta secreto 🪐
 
 # Contraseña secreta (solo para jugar con comentarios)
 password_part1 = 7       # Primer número de la contraseña
@@ -67,7 +67,7 @@ Cada línea de comentario era un jeroglífico galáctico que solo los aliens ent
 # ------------------------------------------------------------
 # Ahora mostramos un mensaje usando print() y nuestras variables
 # Observa cómo podemos combinar texto y variables con una f-string
-mensaje = f"Los alienígenas {alien1} y {alien2} enviaron un mensaje secreto desde {planeta}."
+mensaje = f"Los alienígenas {alien1} y {alien2} enviaron un mensaje secreto desde {planet}."
 print(mensaje)
 
 # Mensaje literal adicional
