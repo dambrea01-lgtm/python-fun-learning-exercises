@@ -12,8 +12,9 @@
 
 <br/>
 
-| 🎮 Stages o apartados del World001 (Capitulo 001)                |
-| ---------------------------------------------------------------- |
-| [➡️🎮 Stage 001 – Secret Messages 🔐](stage001-secret-messages/) |
+| 🎮 Stages o apartados del World001 (Capitulo 001)                                                                                                                 | 📝 Descripción |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [➡️🎮 Stage 001 – Secret Messages 🔐](stage001-secret-messages/stage001.md)                                                                                       |
+| Aprenderás a **crear y manipular variables**, usar **comentarios** y mostrar mensajes con **print()**. Introduce la sintaxis básica de Python de manera práctica. |
 
 <br/>

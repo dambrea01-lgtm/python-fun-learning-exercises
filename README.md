@@ -50,23 +50,14 @@ De esta forma, sabrás exactamente qué estás haciendo y reforzarás tu compren
 
 ### [🌍 Mundo 001 – Numbers and Magic ✨](world001-numbers-and-magic/world001.md)
 
-#### ➡️ Stage 001 – Secret Messages 🔐
-
-Aprenderás a **crear y manipular variables**, usar **comentarios** y mostrar mensajes con **print()**. Introduce la sintaxis básica de Python de manera práctica.
-
 ```text
-    - ⚪🐶🐱 Mission 001 – Pet Comments
-    - 🔵🦸‍♂️🦸‍♀️ Mission 002 – Mini Superhero Diary
-    - 🔴👽👾 Mission 003 – Alien Secret Code
-```
-
-#### ➡️ Stage 002 – Numbers Lab 🧪
-
-En este stage aprenderás a trabajar con **números**, operadores aritméticos, **división normal y floor division**, módulo, y cómo combinar **int** y **float** para resolver problemas prácticos.
-
-```text
-    - ⚪🐶🐾 Mission 001 – Fidos Calculator
-    - ⏳⏳ desarrollando ⏳⏳
+    ➡️ Stage 001 – Secret Messages 🔐
+        - ⚪🐶🐱 Mission 001 – Pet Comments
+        - 🔵🦸‍♂️🦸‍♀️ Mission 002 – Mini Superhero Diary
+        - 🔴👽👾 Mission 003 – Alien Secret Code
+    ➡️ Stage 002 – Numbers Lab 🧪
+        - ⚪🐶🐾 Mission 001 – Fidos Calculator
+        - ⏳⏳ desarrollando ⏳⏳
 ```
 
 <br/><hr/><br/>
