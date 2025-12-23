@@ -25,7 +25,7 @@ A partir de aquí comienzan las misiones, que son ejercicios divertidos basados 
 
 - [🐶🐱 Misión 001 – ⚪ Básico: Comentarios con tu mascota](#-mision-001---básico-comentarios-con-tu-mascota)
 - [🦸‍♂️🦸‍♀️ Misión 002 – 🔵 Intermedio: Mini diario del super-héroe](#-mision-002---intermedio-mini-diario-del-superhéroe)
-- [🕵️✉️ Misión 003 – 🔵 Intermedio: Agente Torpe](️#-mision-003---intermedio-agente-torpe)
+- [🕵️✉️ Misión 003 – 🔵 Intermedio: Agente Torpe](#️️-mision-003---intermedio-agente-torpe)
 
 <br><hr><br>
 
