@@ -25,7 +25,7 @@ A partir de aquí comienzan las misiones, que son ejercicios divertidos basados 
 
 - [🐶🐱 Misión 001 – ⚪ Básico: Comentarios con tu mascota](#-mision-001---básico-comentarios-con-tu-mascota)
 - [🦸‍♂️🦸‍♀️ Misión 002 – 🔵 Intermedio: Mini diario del super-héroe](#-mision-002---intermedio-mini-diario-del-superhéroe)
-- [👽👾 Misión 003 – 🔴 Avanzado: Código secreto del alienígena](#-mision-003---avanzado-código-secreto-del-alienígena)
+- [🕵️✉️ Misión 003 – 🔵 Intermedio: Agente Torpe](#-mision-003---avanzado-código-secreto-del-alienígena)
 
 <br><hr><br>
 
@@ -93,9 +93,8 @@ print("Hola! Mi mascota se llama", mascota, "y es un", tipo, "de", edad, "años"
 
 <br>
 
-| 💻                                                      | 📝                                                  | 🎯                                                 |
-| ------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------- |
-| [Ver código completo](mission001-pet-comments/guide.py) | [Ver Template](mission001-pet-comments/template.py) | [Ver Solo código](mission001-pet-comments/code.py) |
+| [💻 Ver código completo](mission001-pet-comments/guide.py) | [📝 Ver Template](mission001-pet-comments/template.py) | [🎯 Ver Solo código](mission001-pet-comments/code.py) |
+| ---------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------- |
 
 <br><hr><br>
 
@@ -163,109 +162,124 @@ print("Hoy", nombre, "luchó contra", enemigo, "usando", superpoder, "[Risa] \u2
 
 <br>
 
-| 💻                                                              | 📝                                                          | 🎯                                                         |
-| --------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------- |
-| [Ver código completo](mission002-superhero-mini-diary/guide.py) | [Ver Template](mission002-superhero-mini-diary/template.py) | [Ver Solo código](mission002-superhero-mini-diary/code.py) |
+| [💻 Ver código completo](mission002-superhero-mini-diary/guide.py) | [📝 Ver Template](mission002-superhero-mini-diary/template.py) | [🎯 Ver Solo código](mission002-superhero-mini-diary/code.py) |
+| ------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------- |
 
 <br><hr><br>
 
-## [👽👾 MISION 003 – 🔴 AVANZADO: CÓDIGO SECRETO DEL ALIENÍGENA](#indice-de-misiones)
+## [🕵️✉️ MISION 003 – 🔵 INTERMEDIO: AGENTE TORPE](#indice-de-misiones)
 
 ```python
-# ============================================================
-# 👽👾 MISION 003 – 🔴 AVANZADO: CÓDIGO SECRETO DEL ALIENÍGENA
-# ============================================================
-# NIVEL: Avanzado 🔥
-# 🎯 OBJETIVO: Aprender a usar distintos tipos de comentarios en Python
-# 📌 ENUNCIADO:
-# 1. Crear variables para los alienígenas, el planeta y la contraseña secreta.
-# 2. Usar comentarios de una línea (#) para pistas rápidas.
-# 3. Usar comentarios multilínea (""" ... """) para historias o notas largas.
-# 4. Imprimir mensajes usando variables y combinar texto con print().
-# 5. Jugar con "códigos secretos" en los comentarios para la narrativa.
-# 6. Aprender escribiendo línea por línea, reforzando la documentación y la lógica.
-# ============================================================
+  # ============================================================
+  # 🕵️ MISION 404 – 🔵 INTERMEDIO: EL AGENTE TORPE
+  # ============================================================
+  # NIVEL: Intermedio 🕵️
+  # 🎯 OBJETIVO: Aprender a usar distintos tipos de comentarios en Python
+  # 📌 ENUNCIADO:
+  # 1. Ayudar al Agente 404 a enviar mensajes secretos.
+  # 2. Usar comentarios de una línea (#) para pistas rápidas.
+  # 3. Usar comentarios multilínea (''' ... ''' o """ ... """) para notas largas o historias.
+  # 4. Imprimir mensajes usando print() y practicar errores y correcciones.
+  # 5. Aprender escribiendo línea por línea y reforzando la documentación divertida.
+  # ============================================================
 
-# ------------------------------------------------------------
-# 1️⃣ DEFINIR VARIABLES
-# ------------------------------------------------------------
-# Alienígenas protagonistas
-alien1 = "Zog"          # Primer alienígena 👾
-alien2 = "Blip"         # Segundo alienígena 👽
+  # ------------------------------------------------------------
+  # 1️⃣ PRESENTACIÓN DEL AGENTE
+  # ------------------------------------------------------------
+  agente_torpe = "Agente 404"      # Nuestro héroe despistado
+  agente_listo = "Agente 007"      # Su guía experto
 
-# Planeta de origen
-planet = "Zeta-5"      # Planeta secreto 🪐
+  # ------------------------------------------------------------
+  # 2️⃣ PRIMEROS INTENTOS FALLIDOS
+  # ------------------------------------------------------------
+  print(f"{agente_torpe} intenta enviar un mensaje secreto...")
 
-# Contraseña secreta (solo para jugar con comentarios)
-password_part1 = 7       # Primer número de la contraseña
-password_part2 = 3       # Segundo número de la contraseña
+  # Primer intento usando # dentro del string
+  print("Mensaje secreto: #Este es un comentario?")
+  print(f"{agente_listo} dice: No, {agente_torpe}, eso no es un comentario real, solo está dentro del string.")
 
-# ------------------------------------------------------------
-# 2️⃣ CÓDIGO SECRETO EN COMENTARIOS DE UNA LÍNEA
-# ------------------------------------------------------------
-# Los alienígenas dejan pistas en comentarios de una línea:
-# Recuerda que los comentarios de una línea usamos #
-# Python ignora las líneas comentadas.
+  # Segundo intento usando comillas triples simples
+  print("Mensaje secreto: '''Intento de comentario multilínea'''?")
+  print(f"{agente_listo} dice: Casi, {agente_torpe}. Esto es un string, no un comentario oficial.")
 
-# Primer número de la contraseña
-# 7
-# Segundo número de la contraseña
-# 3
+  # Tercer intento usando comillas triples dobles
+  print('Mensaje secreto: """Otro intento de comentario multilínea"""?')
+  print(f"{agente_listo} dice: Igual que antes, {agente_torpe}, Python solo ve un string sin asignar.")
 
-# ------------------------------------------------------------
-# 3️⃣ HISTORIA MULTILÍNEA CON TRIPLE COMILLAS
-# ------------------------------------------------------------
-# Podemos usar """ ... """ para narrar la historia completa.
-# Aunque Python lo interpreta como una cadena, si no se asigna a una variable, actúa como comentario.
-"""
-Zog y Blip planeaban invadir la Tierra sin ser detectados.
-Cada mensaje secreto era escrito en comentarios de código.
-Su misión: confundir a los humanos mientras enviaban códigos cifrados.
-El héroe Fido, el perro cósmico, interceptaba los mensajes con risas.
-Cada línea de comentario era un jeroglífico galáctico que solo los aliens entendían.
-"""
+  # Cuarto intento usando estilo C
+  print("Mensaje secreto: /* Comentario al estilo C */?")
+  print(f"{agente_listo} dice: 404, eso no funciona en Python, es de otros lenguajes!")
 
-# ------------------------------------------------------------
-# 4️⃣ EXPLICAR F-STRING (FORMATTED STRING)
-# ------------------------------------------------------------
-# Las f-strings permiten incrustar variables directamente en una cadena de texto.
-# La letra 'f' antes de las comillas indica que la cadena puede formatearse.
-# Todo lo que pongas entre llaves {} será reemplazado por el valor de la variable.
-# Ejemplo:
-# nombre = "Zog"
-# print(f"Hola {nombre}")  -> Esto imprimirá: Hola Zog
-# Ventaja: más legible que concatenar con + o convertir tipos manualmente.
+  # ------------------------------------------------------------
+  # 3️⃣ EL AGENTE 404 APRENDE
+  # ------------------------------------------------------------
+  # Comentario de una línea
+  # Este es un comentario real que Python ignora
+  print(f"¡Ups! {agente_torpe} finalmente aprende a usar comentarios de una línea correctamente.")
 
-# ------------------------------------------------------------
-# 5️⃣ IMPRIMIR MENSAJE DIVERTIDO
-# ------------------------------------------------------------
-# Ahora mostramos un mensaje usando print() y nuestras variables
-# Observa cómo podemos combinar texto y variables con una f-string
-mensaje = f"Los alienígenas {alien1} y {alien2} enviaron un mensaje secreto desde {planet}."
-print(mensaje)
+  # Comentario multilínea con comillas triples simples
+  '''
+  Ahora {agente_torpe} prueba comentarios largos usando comillas triples simples.
+  Python lo interpreta como un string sin asignar, así que actúa como comentario.
+  Esto sirve para notas largas o historias divertidas dentro del código.
+  '''
 
-# Mensaje literal adicional
-print("Recuerda: las pistas están en los comentarios de código 👾✨")
+  # Comentario multilínea con comillas triples dobles
+  """
+  {agente_torpe} también descubre que las comillas triples dobles funcionan igual.
+  Perfecto para historias, pistas secretas o explicaciones extensas.
+  Python ignora estas líneas durante la ejecución.
+  """
 
-# ------------------------------------------------------------
-# 6️⃣ EXPLICACIÓN FINAL
-# ------------------------------------------------------------
-# 1. # Comentarios de una línea: para notas rápidas y pistas.
-# 2. """ ... """ Comentarios multilínea: para historias largas, explicaciones o documentación.
-# 3. Python ignora los comentarios durante la ejecución.
-# 4. Variables almacenan información que se puede mostrar o combinar.
-# 5. f-strings permiten incrustar variables directamente dentro de cadenas de texto usando {}.
-# 6. print() muestra el mensaje en pantalla.
-# 7. Este ejercicio enseña a usar múltiples tipos de comentarios dentro de una temática divertida.
-# 8. Aprender escribiendo línea por línea refuerza la comprensión y la memoria.
-# 9. Los códigos secretos en comentarios son un ejemplo creativo de cómo documentar programas complejos.
+  # ------------------------------------------------------------
+  #  EXPLICACIÓN DE F-STRINGS
+  # ------------------------------------------------------------
+  # En Python, las f-strings nos permiten insertar valores de variables directamente dentro de un string.
+  # Estructura:
+  # 1. Se coloca una 'f' o 'F' antes de las comillas que delimitan el string.
+  # 2. Dentro del string, cualquier expresión o variable que pongamos dentro de llaves {}
+  #    será reemplazada por su valor al ejecutar el código.
+  # 3. Son útiles para combinar texto y variables de forma clara y legible.
+
+  # Ejemplo dentro del contexto del agente:
+  # nombre_agente = "404"
+  # print(f"El {nombre_agente} ha enviado un mensaje secreto")
+  # Esto imprimirá: El 404 ha enviado un mensaje secreto
+
+  # También podemos usar expresiones dentro de {}:
+  # edad = 42
+  # print(f"El doble de {edad} es {edad * 2}")
+  # Esto imprimirá: El doble de 42 es 84
+
+  # Ventaja:
+  # Más legible que concatenar con + o convertir tipos manualmente.
+
+  # ------------------------------------------------------------
+  # 4️⃣ MENSAJE FINAL
+  # ------------------------------------------------------------
+  mensaje_final = f"{agente_torpe} ahora puede enviar mensajes secretos correctamente gracias a {agente_listo}."
+  print(mensaje_final)
+
+  # Mensaje adicional
+  print("Recuerda: los comentarios ayudan a documentar y hacer tu código más divertido y entendible.")
+
+  # ------------------------------------------------------------
+  # 5️⃣ EXPLICACIÓN FINAL
+  # ------------------------------------------------------------
+  # 1. # Comentarios de una línea: para notas rápidas y pistas.
+  # 2. ''' ... ''' o """ ... """ Comentarios multilínea: para historias largas, explicaciones o documentación.
+  # 3. Python ignora los comentarios durante la ejecución.
+  # 4. print() muestra mensajes y permite probar errores y aciertos.
+  # 5. Practicar línea por línea refuerza la comprensión de los comentarios.
+  # 6. Aprender con historias divertidas ayuda a recordar la sintaxis.
+  # 7. Los comentarios multilínea no se imprimen si no se asignan a una variable.
+  # 8. Las f-strings (f"{variable}") permiten insertar variables y expresiones directamente dentro de un string.
 ```
 
 <br>
 
-| 💻                                                           | 📝                                                       | 🎯                                                      |
-| ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------- |
-| [Ver código completo](mission003-alien-secret-code/guide.py) | [Ver Template](mission003-alien-secret-code/template.py) | [Ver Solo código](mission003-alien-secret-code/code.py) |
+| [💻 Ver código completo](mission003-agente-torpe/guida.py) | [📝 Ver Template](mission003-agente-torpe/template.py) | [🎯 Ver Solo código](mission003-agente-torpe/code.py) |
+| ---------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------- |
 
 <br><hr><br>
 
